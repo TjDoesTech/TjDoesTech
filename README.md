@@ -4,7 +4,7 @@
 
 - <b>Digital Forensic Cases</b>
   - [Manson Case](https://github.com/TjDoesTech/MockForensicCase1)
-
+  - [Hunter Case](https://github.com/TjDoesTech/MockForensicCase2)
 
 <h2>Certifications:</h2>
 
